@@ -1,5 +1,6 @@
 # Main paper
-		@inproceedings{crankshaw2017clipper,
+
+@inproceedings{crankshaw2017clipper,
   title={Clipper: A $\{$Low-Latency$\}$ Online Prediction Serving System},
   author={Crankshaw, Daniel and Wang, Xin and Zhou, Guilio and Franklin, Michael J and Gonzalez, Joseph E and Stoica, Ion},
   booktitle={14th USENIX Symposium on Networked Systems Design and Implementation (NSDI 17)},
