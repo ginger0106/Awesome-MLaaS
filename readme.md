@@ -147,6 +147,13 @@
   volume={4},
   year={2022}
 }
+
+@article{xie2022cost,
+  title={Cost Effective MLaaS Federation: A Combinatorial Reinforcement Learning Approach},
+  author={Xie, Shuzhao and Xue, Yuan and Zhu, Yifei and Wang, Zhi},
+  journal={arXiv preprint arXiv:2204.13971},
+  year={2022}
+}
 # Conference
 		○ OSDI
 		○ NSDI
